@@ -49,7 +49,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## 📂 Repository Structure
 ```
-data-warehouse-project/
+part-2-sql-data-analytics-project/
 │
 ├── datasets/                           # Prepared Medallion data from Project Part 1
 │
