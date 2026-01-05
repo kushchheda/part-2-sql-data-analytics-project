@@ -55,6 +55,7 @@ data-warehouse-project/
 │
 ├── docs/                               # Project documentation (view in order)
 │   ├── Project Roadmap.png             # Shows the scope of our project analysis
+│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_architecture               # (1) This file shows the project's high-level architecture
 │   ├── data_model                      # (2) This file shows the final data model (star schema)
 │
